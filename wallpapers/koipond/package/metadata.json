@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "mzrokz"
+            }
+        ],
+        "Category": "",
+        "Description": "A living koi pond you can feed, stir and startle",
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "com.github.mzrokz.koipond",
+        "License": "MIT",
+        "Name": "Koi Pond",
+        "Version": "1.2",
+        "Website": "https://github.com/mzrokz/plasma-living-wallpapers"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

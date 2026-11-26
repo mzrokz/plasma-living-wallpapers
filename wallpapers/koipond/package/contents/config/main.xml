@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="KoiCount" type="Int"><default>12</default><min>0</min><max>40</max></entry>
+    <entry name="KoiSize" type="Int"><label>Percent</label><default>100</default></entry>
+    <entry name="SwimSpeed" type="Int"><label>Percent</label><default>100</default></entry>
+    <entry name="FryCount" type="Int"><default>18</default><min>0</min><max>60</max></entry>
+    <entry name="CursorMode" type="Int"><label>0 natural, 1 shy, 2 friendly, 3 ignore</label><default>0</default></entry>
+    <entry name="ClickFeeds" type="Bool"><default>true</default></entry>
+    <entry name="RippleStrength" type="Int"><label>Percent</label><default>100</default></entry>
+    <entry name="WaterTheme" type="Int"><label>0 jade, 1 lagoon, 2 ink, 3 spring, 4 moss</label><default>0</default></entry>
+    <entry name="TimeOfDay" type="Int"><label>0 follow clock, 1 dawn, 2 day, 3 dusk, 4 night</label><default>0</default></entry>
+    <entry name="Caustics" type="Int"><label>Percent</label><default>100</default></entry>
+    <entry name="Rain" type="Int"><label>Percent</label><default>0</default></entry>
+    <entry name="PadCount" type="Int"><default>7</default><min>0</min><max>18</max></entry>
+    <entry name="Flowers" type="Bool"><default>true</default></entry>
+    <entry name="PetalCount" type="Int"><default>9</default></entry>
+    <entry name="Fireflies" type="Bool"><default>true</default></entry>
+    <entry name="SharedPond" type="Bool"><label>One pond across all monitors</label><default>true</default></entry>
+    <entry name="Fps" type="Int"><label>0 follows the display</label><default>60</default></entry>
+    <entry name="PixelSize" type="Int"><label>1 smooth, above that pixel art</label><default>1</default></entry>
+    <entry name="PauseMode" type="Int"><label>0 never, 1 fullscreen, 2 fullscreen or maximized</label><default>2</default></entry>
+  </group>
+</kcfg>
