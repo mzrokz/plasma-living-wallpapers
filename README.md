@@ -31,6 +31,18 @@ After upgrading one that is already in use, restart the shell to load the new ve
 Each wallpaper in `wallpapers/<name>` is a self-contained Plasma package with its own
 `build.sh`, `install.sh`, shaders and README.
 
+## Credits
+
+Koi Pond was inspired by two browser koi ponds:
+
+- [nagomi](https://github.com/msk1039/nagomi) by [Mayank Kadam](https://github.com/msk1039)
+  ([live demo](https://nagomi-blue.vercel.app/))
+- [interactive-koi-pond](https://github.com/rzrabbi/interactive-koi-pond) by
+  [Rezaye Rabbi](https://github.com/rzrabbi)
+  ([live demo](https://rzrabbi.github.io/interactive-koi-pond/demo/))
+
+No code was taken from either; this is an independent implementation for Plasma.
+
 ## License
 
 MIT

@@ -47,3 +47,9 @@ Icons, rubber-band selection and the context menu work as usual.
 ./build.sh && qml6 dev/preview.qml   # run in a window
 node dev/soak.mjs                    # an hour of simulated pond per layout, checks for trouble
 ```
+
+## Credits
+
+Inspired by [nagomi](https://github.com/msk1039/nagomi) by Mayank Kadam and
+[interactive-koi-pond](https://github.com/rzrabbi/interactive-koi-pond) by Rezaye Rabbi.
+Both are browser koi ponds well worth a look. No code was taken from either.
