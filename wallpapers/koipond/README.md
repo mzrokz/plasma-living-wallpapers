@@ -3,6 +3,10 @@
 A live, interactive koi pond wallpaper for KDE Plasma 6. Native QML and GPU shaders, with
 no browser engine and nothing to compile except shaders.
 
+![Koi gathering around food](media/pond.jpg)
+
+![Sweeping the cursor through the water, then dropping food](media/demo.webp)
+
 ## Install
 
 ```sh
@@ -46,6 +50,7 @@ Icons, rubber-band selection and the context menu work as usual.
 ```sh
 ./build.sh && qml6 dev/preview.qml   # run in a window
 node dev/soak.mjs                    # an hour of simulated pond per layout, checks for trouble
+dev/record.sh                        # re-record the pictures in media/
 ```
 
 ## Credits

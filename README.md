@@ -4,6 +4,8 @@ Live, interactive wallpapers for KDE Plasma 6. Each one is a small world on your
 that reacts to the cursor and clicks. They are native QML and GPU shaders, with no browser
 engine, and pause while a window covers the screen.
 
+![Koi Pond: sweeping the cursor through the water, then dropping food](wallpapers/koipond/media/demo.webp)
+
 | Wallpaper | What it is |
 |---|---|
 | [Koi Pond](wallpapers/koipond) | Koi, minnows, lily pads and ripples. Feed them, stir the water, startle them. One pond can span all your monitors. |
